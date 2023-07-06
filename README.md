@@ -9,5 +9,5 @@
   </a>
   <br><br>
 
-  <img align="center" src="https://github-readme-stats-beta-wheat-74.vercel.app/api?username=peachapeach&show_icons=true&include_all_commits=true&hide_border=true" alt="🍑 github stats" />
+  <img align="center" src="https://github-readme-stats-beta-wheat-74.vercel.app/api?username=peachapeach&show_icons=true&include_all_commits=true&hide_border=true&count_private=true&custom_title=🍑" alt="🍑 github stats" />
 </div>
