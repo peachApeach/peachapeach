@@ -4,7 +4,7 @@
   <br>
   🐟
   <br><br>
-  <a href="https://www.peachapeach.site">
+  <a href="https://peachapeach.site">
     <img src="https://img.shields.io/badge/Notion-black?style=flat&logo=Notion&logoColor=white">
   </a>
   <br><br>
