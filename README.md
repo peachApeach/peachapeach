@@ -7,7 +7,7 @@
   <a href="https://peachapeach.site">
     <img src="https://img.shields.io/badge/Notion-black?style=flat&logo=Notion&logoColor=white">
   </a>
-  <a href=""mailto:yh_01@daum.net">
+  <a href="mailto:yh_01@daum.net">
     <img src="https://img.shields.io/badge/Daum-FFCD00?style=flat&logo=Kakao&logoColor=white">
   </a>
   <a href="mailto:pandayh7@gmail.com">
