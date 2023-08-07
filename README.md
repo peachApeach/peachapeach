@@ -31,6 +31,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
   <img src="https://img.shields.io/badge/-C%23-00599C?style=for-the-badge&logo=Csharp&logoColor=white">
+  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
   <p style='line-height:normal' />
   💡Framework💡
   <p style='line-height:normal' />
