@@ -55,6 +55,6 @@
 </div>
 
 <div align="right"> 
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FpeachApeach&count_bg=%23FFC4C4&title_bg=%2397DCFF&icon=&icon_color=%23FFFEFE&title=hits&edge_flat=false"/></a>
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FpeachApeach&count_bg=%23FFC4C4&title_bg=%2397DCFF&icon=&icon_color=%23FFFEFE&title=hits&edge_flat=false"/>
 </div>
 
