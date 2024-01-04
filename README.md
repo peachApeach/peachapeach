@@ -3,7 +3,7 @@
     
 
   ###    🐟
-  <a href="https://peachapeach.site">
+  <a href="https://peachapeach.notion.site/peachapeach/91f45b6abbc04ef9b42067852ceedf66">
     <img src="https://img.shields.io/badge/Notion-black?style=for-the-badge&logo=Notion&logoColor=white">
   </a>
   <a href="mailto:yh_01@daum.net">
