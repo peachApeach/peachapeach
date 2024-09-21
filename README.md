@@ -3,14 +3,18 @@
     
 
   ###    🐟
-  <a href="https://peachapeach.notion.site/peachapeach/91f45b6abbc04ef9b42067852ceedf66">
-    <img src="https://img.shields.io/badge/Notion-black?style=for-the-badge&logo=Notion&logoColor=white">
-  </a>
   <a href="mailto:yh_01@daum.net">
     <img src="https://img.shields.io/badge/Daum-FFCD00?style=for-the-badge&logo=Kakao&logoColor=white">
   </a>
   <a href="mailto:pandayh7@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
+  </a>
+  <br>
+  <a href="https://peachapeach.notion.site/peachapeach/91f45b6abbc04ef9b42067852ceedf66">
+    <img src="https://img.shields.io/badge/Notion-black?style=for-the-badge&logo=Notion&logoColor=white">
+  </a>
+  <a href="https://peachapeach.tistory.com/">
+    <img src="https://img.shields.io/badge/Tistory-%23F46800?style=for-the-badge&logo=Tistory&logoColor=white">
   </a>
   <br><br>
     
@@ -18,11 +22,23 @@
   💡DevOps💡
   <p style='line-height:normal' />
   <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" />
+  <br>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/ArgoCD-EF7B4D.svg?style=for-the-badge&logo=Argo&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=GitHubActions&logoColor=white" />
+  <img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white" />
+  <img src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white" />
   <p style='line-height:normal' />
   💡Git💡
   <p style='line-height:normal' />
+  <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/Bitbucket-330F63?style=for-the-badge&logo=bitbucket&logoColor=white">
   <p style='line-height:normal' />
